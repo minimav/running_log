@@ -1,0 +1,11 @@
+# Backend
+**/__pycache__/*
+**/.venv
+**/existing_runs.txt
+**/running.db
+
+# Frontend
+**/node_modules/
+**/public/build/
+
+**/.DS_Store
